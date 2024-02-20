@@ -1,3 +1,4 @@
+//Basic implementation of an Abstract Data Type (ADT) Vector using arrays.
 public class ADTVector {
     private int[] vector;
     private int size;
