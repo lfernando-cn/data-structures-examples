@@ -1,3 +1,9 @@
+/**
+ * Implementation of a Stack using an array with dynamic resizing.
+ * Supports basic stack operations such as push, pop, peek, isEmpty, and isFull.
+ * The ensureCapacity method doubles the array size when the stack is full.
+ */
+
 import java.util.Arrays;
 
 public class Stack {

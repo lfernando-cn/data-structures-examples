@@ -6,6 +6,7 @@ This repository serves as a collection of data structures implemented during my 
 ## List of Data Structures
 
 - [ADT Vector](https://github.com/lfernando-cn/data-structures-examples/blob/main/AbstractDataType-Vector/src/ADTVector.java)
+- [ADT Stack](https://github.com/lfernando-cn/data-structures-examples/blob/main/AbstractDataType-Stack/src/Stack.java)
 - <!-- Add more as you implement -->
 
 Each data structure is implemented in Java within its respective folder.
